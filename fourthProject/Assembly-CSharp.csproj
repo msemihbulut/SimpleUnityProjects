@@ -63,9 +63,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.15f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\AtesEt.cs" />
     <Compile Include="Assets\Scripts\HareketEtme.cs" />
-    <Compile Include="Assets\Scripts\CheckSphere.cs" />
     <Compile Include="Assets\Scripts\Carpma.cs" />
     <Compile Include="Assets\Scripts\Flip.cs" />
     <Compile Include="Assets\MC-1 USSR Toon Tank Big\Scripts\CameraOrbit.cs" />
